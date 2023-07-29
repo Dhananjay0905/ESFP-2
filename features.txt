@@ -1,0 +1,21 @@
+This application provides a sense of security to the users using this app.
+
+
+In thisapplication, we have Save Our Soul (SOS) features. This feature enables the victim to
+send an emergency message along with the current location to their guardians.
+
+
+The second feature is about tracking the location of the users for their own safety
+purpose. While tracking the location, we can even send the message to the guardians
+whether we are reaching the destination or not. We have implemented this feature
+with the help of the Geofence Library.
+
+
+There is also a fake call feature in it where the user gets a fake call
+screen on his/her smartphone and can escape any situation by making a false excuse.
+
+
+The Safe/Unsafe feature is used to see the nearby locations and check whether
+they are safe or unsafe for that time. Here, we are planning to make this feature more efficient
+by also taking the data of severalcrimes occurring in a particular area and then defining
+it as safe or unsafe for thattime. It will be in our future versions of the application.
